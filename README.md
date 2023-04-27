@@ -169,7 +169,7 @@ Please unlock disk luks-80e097ad-c0ab-47ce-9302-02dd316dc45c:
 
 ## Is my data safe on your instances?
 
-Yes, I enable 2FA on my hetzner account [here](https://docs.hetzner.com/accounts-panel/accounts/two-factor-authentication/) and use full disk encryption encryption at rest. [here](https://community.hetzner.com/tutorials/install-ubuntu-2004-with-full-disk-encryption)
+Yes, I enable 2FA on my hetzner account [here](https://docs.hetzner.com/accounts-panel/accounts/two-factor-authentication/) and use full disk encryption (encryption at rest). Also some services also use end-to-end encryption as well, which means i also can't see your data. [here](https://community.hetzner.com/tutorials/install-ubuntu-2004-with-full-disk-encryption)
 
 
 ## Sources
