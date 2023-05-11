@@ -176,3 +176,5 @@ Yes, I enable 2FA on my hetzner account [here](https://docs.hetzner.com/accounts
 
 - [How to install Ubuntu 20.04 with full disk encryption](https://community.hetzner.com/tutorials/install-ubuntu-2004-with-full-disk-encryption)
 - [Other Providers like OVH](https://www.reddit.com/r/seedboxes/comments/etw7yo/ovh_sys_full_disk_encryption/)
+- [Hetzner Full Disk Encryption](https://github.com/shawnbarton/hetzner-full-disk-encyption)
+- [Disk Encryption Hetzner](https://github.com/TheReal1604/disk-encryption-hetzner)
