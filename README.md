@@ -178,3 +178,4 @@ Yes, I enable 2FA on my hetzner account [here](https://docs.hetzner.com/accounts
 - [Other Providers like OVH](https://www.reddit.com/r/seedboxes/comments/etw7yo/ovh_sys_full_disk_encryption/)
 - [Hetzner Full Disk Encryption](https://github.com/shawnbarton/hetzner-full-disk-encyption)
 - [Disk Encryption Hetzner](https://github.com/TheReal1604/disk-encryption-hetzner)
+- [Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
