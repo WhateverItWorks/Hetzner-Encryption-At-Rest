@@ -38,8 +38,8 @@ EOF
 add_rfc3442_hook
 
 # Copy SSH keys for dropbear
-mkdir -p /etc/dropbear-initramfs
-cp -a /root/.ssh/authorized_keys /etc/dropbear-initramfs/authorized_keys
+mkdir -p /etc/dropbear/initramfs
+cp -a /root/.ssh/authorized_keys /etc/dropbear/initramfs/authorized_keys
 
 # Update system
 apt-get update >/dev/null
