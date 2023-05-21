@@ -53,6 +53,8 @@ Note: Replace ```changethis``` with a secure password and adjust drive names and
 CRYPTPASSWORD changethis
 DRIVE1 /dev/sda # change this to your own drive
 DRIVE2 /dev/sdb # change this to your own drive and this is for if you have multiple drives on your server
+#DRIVE1 /dev/nvme0n1 # nvme ssd support
+#DRIVE2 /dev/nvme1n1 # nvme ssd support
 SWRAID 1 # Disk mirroring, also known as RAID 1, is the replication of data to two or more disks. Disk mirroring is a good choice for applications that require high performance and high availability, such as transactional applications, email and operating systems.
 SWRAIDLEVEL 1 # Disk mirroring, also known as RAID 1, is the replication of data to two or more disks. Disk mirroring is a good choice for applications that require high performance and high availability, such as transactional applications, email and operating systems.
 BOOTLOADER grub
